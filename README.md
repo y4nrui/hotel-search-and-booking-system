@@ -1,7 +1,18 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6882148&assignment_repo_type=AssignmentRepo)
-# Project
-This repository contains your submissions for the project.
+# Hotel Search & Booking System
+A project as part of SMU's CS301 IT Solution Architecture course, in collaboration with Ascenda Loyalty Singapore. As the name suggest, this application allows users to search (with auto-complete features) and book a hotel room. 
 
-Note that this repo is writable by you. Any changes you or your team members made in this repo can be pushed to origin.
+## Project Goal
+The main goal of this project is to consider the overall architecture of the system, with a focus on the system's:
+- Speed
+- Scalability
+- Ease of maintenance
+- Security
+- Resilience and data recovery
 
-If you have changes or discover issues, you can also create an issue.
+## AWS Services Used
+- AWS Amplify (frontend)
+- AWS API Gateway
+- AWS Aurora (database)
+- AWS CloudSearch
+- AWS Lambda (backend)
+
